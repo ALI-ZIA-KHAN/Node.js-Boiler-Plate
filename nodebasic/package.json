@@ -1,0 +1,14 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "node basic tutorial for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
